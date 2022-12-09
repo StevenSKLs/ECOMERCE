@@ -719,6 +719,10 @@ h2{
         margin-left: 3%;
     }
     
+    .navbar{
+        padding: 0rem 3.5rem;
+    }
+
     .home-image {
         width: 480px;
         height: 680px;
