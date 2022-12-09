@@ -627,6 +627,17 @@ h2{
     margin-top: -0.8rem;
     text-align: center;
 }
+.home-but.hide2{
+    background: var(--title-color);
+    color: var(--body-color);
+    height: 62px;
+}
+.home-but.hide{
+    place-self: center;
+    background: var(--text-color-light);
+    color: var(--border-color);
+    height: min-content;
+}
 
 
 
